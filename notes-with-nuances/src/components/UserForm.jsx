@@ -4,7 +4,7 @@ import LogIn from "./LogIn";
 import SignUp from "./SignUp";
 
 const UserDiv = styled.div`
-    width: 400px;
+    width: 375px;
     min-height: 450px;
     display: flex;
     flex-direction: column;
